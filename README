@@ -1,0 +1,2 @@
+This is a lab assignment of EEE 321 Signals and Systems course. The main idea is designing a FIR filter (bandpass) according to some specifications.
+The filter is used to filter some frequencies from a music and my voice.
