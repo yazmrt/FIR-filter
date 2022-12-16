@@ -1,4 +1,6 @@
-This is a lab assignment of EEE 321 Signals and Systems course. The main idea is designing a FIR filter (bandpass) according to some specifications.
-The filter is used to filter some frequencies from a music and my voice.
+This is lab assignments of EEE 321 Signals and Systems course. 
+Lab 5 is designing a FIR filter according to specifications.
+Lab 6 is designin a IIR filter according to specifications.
+The filters are used to filter some frequencies from a music and my voice.
 Mychirp is chirp function to test the filter.
 
